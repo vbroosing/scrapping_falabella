@@ -1,0 +1,10 @@
+# Entorno virtual
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Archivos de datos (Salidas del script)
+*.xlsx
+data.csv
